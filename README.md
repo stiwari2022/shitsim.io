@@ -1,0 +1,2 @@
+# shitsim.io
+shit simulator
